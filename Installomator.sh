@@ -9132,7 +9132,7 @@ resiliosynchome)
     downloadURL="https://download-cdn.resilio.com/stable/mac/osx/0/Resilio-Sync.dmg"
     archiveName="Resilio-Sync.dmg"
     appName="Resilio Sync.app"
-    expectedTeamID="..."
+    expectedTeamID="2953Z5SZSK"
     ;;
 retrobatch)
     name="Retrobatch"

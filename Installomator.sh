@@ -9131,7 +9131,6 @@ resiliosynchome)
     type="dmg"
     downloadURL="https://download-cdn.resilio.com/stable/mac/osx/0/Resilio-Sync.dmg"
     archiveName="Resilio-Sync.dmg"
-    appName="Resilio Sync.app"
     expectedTeamID="2953Z5SZSK"
     ;;
 retrobatch)
